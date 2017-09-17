@@ -1,5 +1,7 @@
 # learn-docker
 Learning Docker
 
-This is my first foray into the world of containers and
-docker in particular.  Hopefully it will be a fruitful one
+
+Steven W. Hirsch
+83-44 Lefferts Boulevard, Apt. 5R
+Kew Gardens, NY 11415
